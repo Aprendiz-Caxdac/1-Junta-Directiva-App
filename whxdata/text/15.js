@@ -1,1 +1,0 @@
-rh._.exports({"1":[[" ","Alistamiento Reuniones"]],"2":[[" ","Este módulo se utiliza para ejecutar el proceso de pago de cada reunión específica. En esta ventana encontramos:"," ","Asistentes por Reunión"," ","Contabilización Asistencias"," ","Consulta de Contabilizaciones"," ","Temas Relacionados"," ","Tablas Básicas"]],"4":[["Padre"]],"id":"15"})
